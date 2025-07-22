@@ -20,8 +20,8 @@ Al ejecutar el programa, se mostrará un menú con la explicación de los colore
 * `main.py`: el código del juego, cuyo funcionamiento está completamente explicado paso a paso en comentarios detallados.
 * `diccionario.txt`: un archivo de texto con palabras válidas en el diccionario de la RAE (no las incluye todas, se puede ampliar manualmente).
 
-## Requisitos previos
-...
+## Requisitos
+Para poder ejecutar este programa es imprescindible tener **Python** instalado, puedes descargar la última versión desde [el sitio web oficial de Python](https://www.python.org/). *Este programa ha sido probado con Python 3.12*
 
 ## Ejecución del juego
 
