@@ -36,4 +36,6 @@ python main.py
 3. El juego seleccionará una palabra aleatoria de 5 letras del diccionario y te pedirá que introduzcas tus intentos. Tienes un máximo de **6 intentos** para adivinar la palabra correcta.
 
 ## Futuras actualizaciones
-...
+- Nuevos modos de juego.
+- Soporte para más idiomas.
+- Interfaz de usuario.
